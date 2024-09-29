@@ -4,27 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1faf522-2e80-4662-9183-4d495e0509d9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Button.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Eatable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Flyable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HumanWorker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Light.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Penguin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RobotWorker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sparrow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Switchable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_1/EmailValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_1/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Workable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Worker.java" afterDir="false" />
+    <list default="true" id="d1faf522-2e80-4662-9183-4d495e0509d9" name="Changes" comment="1 Assignment for SDP">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,11 +64,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1727617972442</updated>
-      <workItem from="1727617973667" duration="5049000" />
+      <workItem from="1727617973667" duration="5849000" />
     </task>
+    <task id="LOCAL-00001" summary="1 Assignment for SDP">
+      <option name="closed" value="true" />
+      <created>1727635843987</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1727635843987</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1 Assignment for SDP" />
+    <option name="LAST_COMMIT_MESSAGE" value="1 Assignment for SDP" />
   </component>
 </project>
